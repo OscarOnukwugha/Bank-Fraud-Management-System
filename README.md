@@ -26,6 +26,8 @@ MySQL
 - Enforced referential integrity using foreign key constraints.
 - Created Stored Procedures for Automation of Previous Bank Fraud Updates.
 - Developed an SQL Trigger that automatically records suspicious transactions in a separate log table once they meet defined fraud criteria (e.g., large withdrawals or transfers).
+<img width="488" height="385" alt="image" src="https://github.com/user-attachments/assets/f2b98ca6-371a-435a-a630-4a225b539bbf" />
+
 
 ## Problem and Solution Applied:
 ### Problem:
