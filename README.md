@@ -53,7 +53,7 @@ Whenever a transaction exceeds ₦4,000,000 or meets specific suspicious criteri
     
 # Link to SQL File: 
 
-[Power BI](https://app.powerbi.com/reportEmbed?reportId=3af45a88-386b-42ac-b11f-a96fdf8640df&autoAuth=true&ctid=0801c8b7-f6a9-44a2-8891-282fd58fab33)
+(https://github.com/OscarOnukwugha/Bank-Fraud-Management-System/blob/main/Bank%20Fraud%20Management%20System.sql)
 
 # Conclusion:
 
