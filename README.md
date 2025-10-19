@@ -36,6 +36,7 @@ Banks often struggle to identify suspicious transactions promptly due to large t
 ### Solution applied: 
 A database-level trigger was implemented to automate fraud detection.
 Whenever a transaction exceeds ₦4,000,000 or meets specific suspicious criteria, the system logs it into a FraudAuditLog table with details such as customer ID, transaction ID, and alert message; ensuring that high-value transactions are instantly flagged for review.
+
 <img width="526" height="333" alt="image" src="https://github.com/user-attachments/assets/dd3bde40-1d70-4ae3-910e-c464e134398d" />
 
 ## Notable Findings:
