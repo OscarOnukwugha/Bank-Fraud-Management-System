@@ -1,5 +1,5 @@
 # Bank Fraud Management System
-#### An SQL-based Fraud Management System that automatically flags and logs suspicious banking transactions using triggers and audit logs.
+#### This is an SQL-based Fraud Management System that automatically flags and logs suspicious banking transactions using triggers and audit logs.
 
 ## Table of Contents
 
