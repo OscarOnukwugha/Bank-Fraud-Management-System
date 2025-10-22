@@ -1,5 +1,5 @@
 # Bank Fraud Management System
-#### #### 80,658 unique customers in Nigeria were victims of fraud in 2023.
+#### 80,658 unique customers in Nigeria were victims of fraud in 2023.
 
 #### This is an SQL-based Fraud Management System that automatically flags and logs suspicious banking transactions using triggers and audit logs.
 
