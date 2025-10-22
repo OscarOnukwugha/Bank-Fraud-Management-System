@@ -32,7 +32,8 @@ MySQL
 - Created Stored Procedures for automation of fraud alert updates
 - Developed SQL Triggers that automatically record suspicious transactions in separate log tables based on defined fraud criteria
 
-<img width="488" height="385" alt="image" src="https://github.com/user-attachments/assets/f2b98ca6-371a-435a-a630-4a225b539bbf" />
+#### Database Schema
+<img width="558" height="383" alt="image" src="https://github.com/user-attachments/assets/accbc2b8-f624-4e2a-8647-faa15be5ac6a" />
 
 ## Problem and Solution Applied:
 ### Problem:
@@ -61,8 +62,9 @@ Fraud Check (Amount > ₦4M?) → Log to FraudAuditLog → Alert Generated
 - High-value transactions are automatically detected and logged in real time.
 - The FraudAlerts table provides an immediate audit trail for investigation.
 - The trigger-based design can easily be extended to include other fraud parameters such as transaction frequency or time-based anomalies.
-  
+
 <img width="533" height="68" alt="image" src="https://github.com/user-attachments/assets/7824ace0-c97f-4357-b62e-a843d7b589eb" />
+  
 
 ### Business Impact
 - Risk Mitigation: Immediate identification of suspicious activity reduces potential losses
