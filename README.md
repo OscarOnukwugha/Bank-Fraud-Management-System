@@ -33,7 +33,7 @@ MySQL
 - Developed SQL Triggers that automatically record suspicious transactions in separate log tables based on defined fraud criteria
 
 #### Database Schema
-<img width="558" height="383" alt="image" src="https://github.com/user-attachments/assets/accbc2b8-f624-4e2a-8647-faa15be5ac6a" />
+![Schema](https://github.com/user-attachments/assets/10739685-b056-4c4d-a998-902148b995f5)
 
 ## Problem and Solution Applied:
 ### Problem:
@@ -49,8 +49,11 @@ Implemented a database-level trigger system for real-time fraud detection:
 - Automated Logging: Suspicious activities are instantly recorded in the FraudAuditLog table
 - Comprehensive Audit Trail: System captures customer ID, transaction ID, timestamp, and alert details
 - Zero Latency: Detection occurs in real-time as transactions are inserted into the database
+#### FRaud Detection Trigger
+![Trigger](https://github.com/user-attachments/assets/c3f9343a-211e-4e70-82ce-4bea56753fd7)
 
-<img width="526" height="333" alt="image" src="https://github.com/user-attachments/assets/dd3bde40-1d70-4ae3-910e-c464e134398d" />
+#### Stored Procedure
+![Stored Procedure](https://github.com/user-attachments/assets/4344dde8-2dce-4908-b72e-6e3c5a467052)
 
 ## System Architecture
 The system uses a trigger-based architecture that operates at the database layer:
